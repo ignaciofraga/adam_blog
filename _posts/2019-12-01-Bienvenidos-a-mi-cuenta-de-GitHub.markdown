@@ -1,4 +1,7 @@
 ---
+img: post-1.jpg # Add image post (optional)
+---
+---
 layout: post
 title:  I conquer the Himalayas
 date:   2017-08-25 13:32:20 +0300
